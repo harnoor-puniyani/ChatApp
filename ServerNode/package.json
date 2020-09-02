@@ -1,0 +1,14 @@
+{
+  "name": "servernode",
+  "version": "1.0.0",
+  "description": "This node server is for the server side of our chatapp ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harnoor",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
